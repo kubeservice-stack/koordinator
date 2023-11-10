@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - release-*
+      - local
   pull_request: {}
   workflow_dispatch: {}
 
